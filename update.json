@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "url": "https://github.com/Ljj1234-ctrl/wangmi-update/releases/download/v1.0.3/WangMi_Converter_v1.0.3.zip",
   "notes": [
     "修复真实网易云 NCM 文件解密失败（封面区偏移与密钥流对齐）",

@@ -1,9 +1,8 @@
 {
   "version": "1.0.5",
-  "url": "https://github.com/Ljj1234-ctrl/wangmi-update/releases/download/v1.0.3/WangMi_Converter_v1.0.3.zip",
+  "url": "https://github.com/Ljj1234-ctrl/wangmi-update/releases/download/v1.0.5/WangMi_Converter_v1.0.5.zip",
   "notes": [
-    "修复真实网易云 NCM 文件解密失败（封面区偏移与密钥流对齐）",
-    "修复「转换失败」文字与右侧删除按钮重叠的问题",
-    "接入在线更新检查，后续版本可直接提示并跳转下载"
+    "修复检查更新读不到新版本：改从 Latest Release 附件读取，不再受 CDN 缓存影响",
+    "新版本发布后，老用户点「检查更新」即可即时识别并跳转下载"
   ]
 }

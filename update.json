@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "url": "https://github.com/Ljj1234-ctrl/wangmi-update/releases/download/v1.0.5/WangMi_Converter_v1.0.5.zip",
   "notes": [
     "修复检查更新读不到新版本：改从 Latest Release 附件读取，不再受 CDN 缓存影响",
